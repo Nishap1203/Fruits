@@ -1,2 +1,2 @@
 fruit = { mango,apple,orange}
-car = {toyoto ,jaguar,walkwagen, BMW}
+car = {toyoto ,jaguar,walkwagen, xuv}
