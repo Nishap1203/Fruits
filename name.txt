@@ -1,2 +1,3 @@
 fruit = { mango,apple,orange}
 car = {toyoto ,jaguar,walkwagen, BMW}
+user = {nisha , disha}
