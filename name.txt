@@ -1,3 +1,3 @@
 fruit = { mango,apple,orange}
 car = {toyoto ,jaguar,walkwagen, BMW}
-tree = {banana,mangogit }
+tree = {banana,mangogit}
